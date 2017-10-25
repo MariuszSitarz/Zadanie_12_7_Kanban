@@ -14,11 +14,10 @@
 }
 
 .board {
-    padding: 5px;
+    padding: 10px;
     text-align: center;
-    background-color: rgba(13, 75, 180, 0.1);
     background-image: url("https://img00.deviantart.net/7505/i/2012/085/5/3/stained_paper__02_by_carlbert-d4tzevl.jpg");
-    /*background-repeat: no-repeat;*/
+    height:100vh;
     background-size: cover;
 }
 .column {
