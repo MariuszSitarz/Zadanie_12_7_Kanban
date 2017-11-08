@@ -16,22 +16,24 @@
 .board {
     padding: 10px;
     text-align: center;
-    background-image: url("https://img00.deviantart.net/7505/i/2012/085/5/3/stained_paper__02_by_carlbert-d4tzevl.jpg");
+    background-image: url("https://cdn.stocksnap.io/img-thumbs/960w/DW5RXHCDT5.jpg");
     height:100vh;
     background-size: cover;
+
 }
 .column {
     display: inline-block;
-    padding: 30px;
-    margin: 10px;
-    border: 1px solid brown;
+    padding: 50px;
+    margin: 50px;
+    border: 1px solid #ffffff;
     box-shadow: 3px 3px 4px rgba(33,33,33,.7);
+    background-color: rgba(255, 239, 213, 0.85);
 }
 
 .card {
     padding: 5px;
     margin: 10px;
-    border: 1px solid rgba(101, 50, 19, 0.71);
+    border: 1px solid rgba(156, 156, 156, 0.71);
     background-color: rgba(255, 255, 0, 0.18);
     box-shadow: 5px 5px 7px rgba(33,33,33,.7);
 
@@ -55,11 +57,12 @@ h2 {
 
 .create-column {
     border-radius: 5px;
+    padding:10px;
 }
 
 .add-card {
     border-radius: 5px;
-    padding: 5px;
+    padding: 10px;
 }
 
 .btn-delete {
